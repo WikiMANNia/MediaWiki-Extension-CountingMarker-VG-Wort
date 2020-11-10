@@ -18,3 +18,6 @@ https://vgwort.wikimannia.org/Spezial:Zählmarken
 
 Sehen Sie die Beschreibung in unserem Blog mit Bildschirmphotos:
 https://blog.wikimannia.org/mediawiki-erweiterung-countingmarker-vg-wort/
+
+MediaWiki:
+https://www.mediawiki.org/wiki/Extension:CountingMarker
