@@ -17,7 +17,7 @@ Sehen Sie eine Demo-Installation:
 https://vgwort.wikimannia.org/Spezial:Zählmarken
 
 Change log/Versionshistorie:
-https://vgwort.wikimannia.org/Spezial:Z%C3%A4hlmarken/about#changelog
+https://vgwort.wikimannia.org/Spezial:Zählmarken/about#changelog
 
 Sehen Sie die Beschreibung in unserem Blog mit Bildschirmphotos:
 https://blog.wikimannia.org/mediawiki-erweiterung-countingmarker-vg-wort/
